@@ -13,7 +13,6 @@ An issue tracking API built with Express.js and TypeScript for managing bug repo
 - **Issue Tracking**: Create, read, update, and delete issues
 - **Issue Classification**: Support for bug and feature request issue types
 - **Issue Status Management**: Track issues through open, in_progress, and resolved states
-- **Input Validation**: Comprehensive validation for all API requests
 - **Error Handling**: Global error handling middleware with consistent error responses
 - **Database Persistence**: PostgreSQL for reliable data storage
 
