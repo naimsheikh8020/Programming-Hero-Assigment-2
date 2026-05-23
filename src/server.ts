@@ -1,7 +1,6 @@
 import dotenv from "dotenv";
 dotenv.config();
 import app from "./app.js";
-import pool from "./config/db.js";
 import createUsersTable from "./db/userTable.js";
 import createIssuesTable from "./db/issueTable.js";
 
